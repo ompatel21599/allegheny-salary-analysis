@@ -144,6 +144,8 @@ Raw data was cleaned and transformed using **Pandas**:
 
 `Data Collection` → `Data Cleaning` → `Feature Engineering` → `Dimension Reduction` → `ML Modeling` → `Visualization` → `Dashboard`
 
+<img width="1302" height="732" alt="Dashboard" src="https://github.com/user-attachments/assets/9197ee55-68c8-467a-9507-1c9e2fd3f2a9" />
+
 ---
 
 ## 📬 Contact
